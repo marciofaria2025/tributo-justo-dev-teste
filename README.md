@@ -37,7 +37,7 @@ Você deverá construir uma API que:
 
 ## ⏱️ Tempo estimado
 
-Você pode realizar o teste no seu tempo, mas pedimos que seja entregue em até **3 dias úteis** após o envio.
+Você pode realizar o teste no seu tempo, mas pedimos que seja entregue em até **2 dias úteis** após o envio.
 
 ## 📧 Entrega
 
